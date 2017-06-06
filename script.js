@@ -73,7 +73,7 @@ $('.post-beer').on('click', function () {
   }
 });
 
-
+// pull test comment
 $('.sort-beer').on('click', function () {
   // debugger;
   app.sortBeers();
