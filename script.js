@@ -1,5 +1,6 @@
 var ascending = true;
 
+// test comment - beer review
 function BeerReviewApp() {
   var beers = [];
 
